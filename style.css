@@ -1,12 +1,11 @@
 /* Geovana Araújo de jesus 2-c*/
 
-
-@import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
-@import url("styles/topicos.css");
 @import url("styles/contato.css");
+@import url("styles/header.css");
 @import url("styles/rodapé.css");
+@import url("styles/topicos.css");
 
 
 :root {
